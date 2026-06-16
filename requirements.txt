@@ -1,0 +1,10 @@
+pandas
+numpy
+python-Levenshtein
+torch
+transformers
+tqdm
+fasttext
+scikit-learn>=1.3.0
+scipy
+openai
